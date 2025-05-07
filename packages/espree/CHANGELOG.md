@@ -1,5 +1,26 @@
 # Changelog
 
+## [10.4.0](https://github.com/lumirlumir/fork-js/compare/espree-v10.3.0...espree-v10.4.0) (2025-05-07)
+
+
+### Features
+
+* add support for Import Attributes and RegExp Modifiers ([#639](https://github.com/lumirlumir/fork-js/issues/639)) ([2fd4222](https://github.com/lumirlumir/fork-js/commit/2fd422278bfad826d601795670004f9d6da72ef7))
+* add the `eslint-scope` package ([#615](https://github.com/lumirlumir/fork-js/issues/615)) ([2ecfb8b](https://github.com/lumirlumir/fork-js/commit/2ecfb8ba460a73601b859fd10d000cee817d170c))
+
+
+### Bug Fixes
+
+* Update dependencies to avoid build failure ([#631](https://github.com/lumirlumir/fork-js/issues/631)) ([e8cd107](https://github.com/lumirlumir/fork-js/commit/e8cd107d732fb7ef62cd4f6cd179bd48f5c13b27))
+* update links to `eslint/js` repo ([#619](https://github.com/lumirlumir/fork-js/issues/619)) ([956389a](https://github.com/lumirlumir/fork-js/commit/956389ac150bd2394bc78a35c2a1f9d794f61ea8))
+
+
+### Dependencies
+
+* The following workspace dependencies were updated
+  * dependencies
+    * eslint-visitor-keys bumped from ^4.2.0 to ^4.3.0
+
 ## [10.3.0](https://github.com/eslint/js/compare/espree-v10.2.0...espree-v10.3.0) (2024-10-29)
 
 
