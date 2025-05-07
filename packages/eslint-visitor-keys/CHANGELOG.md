@@ -1,5 +1,18 @@
 # Changelog
 
+## [4.3.0](https://github.com/lumirlumir/fork-js/compare/eslint-visitor-keys-v4.2.0...eslint-visitor-keys-v4.3.0) (2025-05-07)
+
+
+### Features
+
+* add support for Import Attributes and RegExp Modifiers ([#639](https://github.com/lumirlumir/fork-js/issues/639)) ([2fd4222](https://github.com/lumirlumir/fork-js/commit/2fd422278bfad826d601795670004f9d6da72ef7))
+* add the `eslint-visitor-keys` package ([#620](https://github.com/lumirlumir/fork-js/issues/620)) ([5903929](https://github.com/lumirlumir/fork-js/commit/5903929cb65898ffdb6bea7d3fca99781f32ff09))
+
+
+### Bug Fixes
+
+* Update dependencies to avoid build failure ([#631](https://github.com/lumirlumir/fork-js/issues/631)) ([e8cd107](https://github.com/lumirlumir/fork-js/commit/e8cd107d732fb7ef62cd4f6cd179bd48f5c13b27))
+
 ## [4.2.0](https://github.com/eslint/js/compare/eslint-visitor-keys-v4.1.0...eslint-visitor-keys-v4.2.0) (2024-10-29)
 
 
